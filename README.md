@@ -1,0 +1,2 @@
+# Character-Recognition
+The aim of this project was to recognise the given single character from the image. The images were downloaded from NIST. After collecting images, I wrote a program to convert those images into 28X28 pixels and captured the pixel values in an array of size 784, denoting each pixel values. I randomly picked 500 images of each character. Then I trained different classification models like Logistic Regression, Decision Tree, Random Forest and Gradient Boosting to predict the Characters.
